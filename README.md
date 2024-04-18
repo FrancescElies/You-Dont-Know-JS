@@ -1,4 +1,4 @@
-_NOTE_: just added mdbook config
+_NOTE_: just added mdbook config (`just open`)
 
 # You Don't Know JS Yet (book series) - 2nd Edition
 
